@@ -55,7 +55,7 @@
           }
         }, resp=> {
           _this.loading = false;
-          _this.$alert('找不到服务器!', '失败!');
+          _this.$alert('找不到服务器⊙﹏⊙∥!', '失败!');
         });
       }
     }
